@@ -1,0 +1,2 @@
+What you should not do?
+- If the candidate has no clue about a main theoritical answer, don't expect to invent it in that moment. There are typical programming exercises which can be learnt or can be figured out in that very moment. But it is a ridiculous expectation that the candidate will figure out big programming concepts during an interview.

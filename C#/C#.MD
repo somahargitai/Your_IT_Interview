@@ -1,0 +1,3 @@
+C#...
+
+https://balassygyorgy.wordpress.com/2008/11/14/c-programozas-allasinterju-kerdesek/
