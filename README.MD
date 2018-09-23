@@ -1,5 +1,5 @@
 # Your IT Interview
-This is an info collection about IT interviews. Primarily it aims at helping juniors to prepare themselves for a job interview. I have also added some [recommendations for technical interviewers, employers](ForInterviewers).
+This is an info collection about IT interviews. Primarily it aims at helping juniors to prepare themselves for a job interview. I have also added some [recommendations for technical interviewers, employers](ForInterviewers/README.MD).
 
 __!important__:
 This collection is not a kit for learning but for challenging your knowledge. You have to go through learning materials and to code a lot to gather your knowledge. This collection provides a feedback for yourself and it shows not only _what_ interviewers usually ask but _how_ they do it.  
@@ -8,7 +8,7 @@ If you need a guide how you should start coding or how to structure your learnin
 ### Languages
 You can read interview questions here for all the main programming languages and technologies*. I hope to be able soon to write detailed solutions and code snippets for them:
 - JavaScript technologies: [core JavaScript](JavaScript/README.MD), [Node.js](JavaScript/README.MD)
-- OOP and OOP supporting languages: [C\#](C#/README.MD) , [Java](Java/README.MD), [C\+\+](C++/README.MD)
+- OOP and OOP supporting languages: [C\#](Csharp/README.MD) , [Java](Java/README.MD), [C\+\+](Cplusplus/README.MD)
 - Script languages: [Python](Python/README.MD)
 
 ### Database & Test
