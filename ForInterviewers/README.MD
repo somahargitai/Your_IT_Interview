@@ -3,14 +3,14 @@
 ## What you should not do?
 
 ### Expect improvisation
-- If the applicant has no clue about a main theoritical answer, don't expect to invent it in that moment. There are typical programming exercises which can be learnt or can be figured out in that very moment. But it is a ridiculous expectation that the candidate will figure out big programming concepts during an interview.
+If the applicant has no clue about a main theoritical answer, don't expect to invent it in that moment. There are typical programming exercises which can be learnt or can be figured out in that very moment. But it is a ridiculous expectation that the candidate will figure out big programming concepts during an interview.
 
 ### Is an interview question test a secret?
 On some interviews I attended it was forbidden to take notes. Some companies told me explicitly (even with privacy statements) that their tests are secrets. Which is... whaaat?
 
 When you are collecting a set of test questions, you should know that it can never be a secret. Just like in a school test or a university test people will take secret notes, remember and write the questions outside, make photos with their smartphones. And yes, they will share it the very next moment. Result: those who get the questions will have advantage over others. The test results won't show the measured skills, it will be distorted by the background of the applicants.
 
-Solution: be open about the questions, make a clear expectation description. Real skills, capabilities cannot be created the night before the test. Some questions and answers may be learned. But is it bad if the applicant learned the answers of 300 typical questions the day before the interview? I think it does not show a bad behaviour, it shows a good capability and a great with to learn. This is exactly what you want.
+Solution: be open about the questions, make a clear expectation description. Real skills, capabilities cannot be created the night before the test. Some questions and answers may be learned. But is it bad if the applicant learned the answers of 300 typical questions the day before the interview? I think it does not show a bad behaviour, it shows a good capability and a great wish to learn. This is exactly what you want.
 
 ### Salary shaming
 It is a common section in CVs and interviews to ask the applicant about motivations of change: _“Why do you want to change?”, “Why do you think this company would be a good fit for you?”_. I've experienced two harmful attitudes:
