@@ -100,6 +100,10 @@ https://www.edureka.co/blog/interview-questions/java-interview-questions/
 - What is the difference between Java SE and EE?
 - is there 
 
+Java Enterprise and Standard difference:
+EE, formerly known as J2EE includes Java Standard Edition plus most of the other Java technologies including JavaMail, Activation, JAXB (Java API for XML Binding), Servlets, JSF (Java Server Faces), JMS (Java Messaging Service), EJB (Enterprise Java Beans), and others.
+_[source](https://www.quora.com/What-is-difference-between-core-Java-and-Java-EE)_
+
 JVMs - Zing as an alternative  
 https://www.azul.com/products/zing/
 
