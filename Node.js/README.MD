@@ -27,6 +27,8 @@ All APIs of Node are written to support callbacks.
 - Explain the role of REPL in Node.js. : READ EVAL PRINT LOOP  
 As the name suggests, REPL (Read Eval print Loop) performs the tasks of – Read, Evaluate, Print and Loop. The REPL in Node.js is used to execute ad-hoc Javascript statements. The REPL shell allows entry to javascript directly into a shell prompt and evaluates the results. For the purpose of testing, debugging, or experimenting, REPL is very critical.  
 
+- [What is the difference: nextTick, setImmediate](https://stackoverflow.com/questions/17502948/nexttick-vs-setimmediate-visual-explanation/38742776)
+
 https://medium.com/@vigowebs/frequently-asked-node-js-interview-questions-and-answers-b74fa1f20678
 
 https://www.techbeamers.com/top-30-node-js-interview-questions-answers/
