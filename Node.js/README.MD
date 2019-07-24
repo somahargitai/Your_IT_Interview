@@ -11,7 +11,7 @@ Answers
 - Why? : 
  * non-blocking
  * async
- * concurrency
+ * [concurrency](https://medium.com/platformer-blog/node-js-concurrency-with-async-await-and-promises-b4c4ae8f4510)
  * scalability
 - update npm: `$ sudo npm install npm -g`
 - Why is Node.js Single-threaded? : 
