@@ -1,4 +1,9 @@
+- [What is the difference between SPA and Ajax?](https://www.quora.com/What-is-the-difference-between-SPA-and-AJAX)
+  * A SPA (single page application) is based on content that minimizes the traditional concept of using a full response (post) to the server by using asynchronous calls to update pieces and parts of the content instead. 
+  * AJAX (asynchronous JavaScript and XML) describes the process of making these partial content requests/responses to the web server. 
+
 - What is a callback?
+
 Any function that is passed as an argument is called a callback function.
 ```
 function doHomework(subject, callback) {
