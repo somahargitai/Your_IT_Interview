@@ -1,5 +1,53 @@
-# Javascript
+# Javascript, Web development
 
+## Language elements and Behaviour
+
+- How does concurrency model work?
+- Event loop
+- Can Javascript run on multiple threads? How does it solve concurrency problems?
+- How does Inheritance work in Javascript?
+- What is Prototype Chain?
+- What is the difference between var and let/const? What is there scope?
+- What is hoisting?
+- What is clojure/parent scope and block scope?
+- How var can create memory leaks?
+
+## Architectural concepts and their differences, scalability
+
+- How would your architecture look like for a
+  - Pet project blog
+  - A commerce site, like a popular webshop
+  - A huge project, like Booking.com
+- SPA
+- file data storages, static assets
+
+## Development toolset, code quality
+
+- Linters
+- Style guide to avoid _"religion wars"_ among developers
+- How do you organize your data? Endpoints, tests, third party services, utils? Would you use long files?
+- build pipelines
+
+## Security
+
+- What are the typical security problems and how to solve them?
+- What are CORS headers?
+- What is TLS?
+- HTTP vs HTTPS
+- XSS, Cross-site scripting attack
+- DDos attack
+- DNS hijacking attack
+- SQL injection
+- How do you prevent a website from pulling your website to an iframe to steal data
+- Should you use websockets? What are they for?
+- Can Javascript read cookies?
+- How does a login process look like?
+- What is session and how to use it?
+- Where is a session stored?
+- What is a hash?
+- How and when to use HTTP response headers _HttpOnly_?
+- How and when to use _secure_ switch?
+- Who can read cookies?
 ## Questions about Async behaviour
 
 Ajax, callback, Promise, Async
