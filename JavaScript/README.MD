@@ -2,6 +2,8 @@
 
 ## Language elements and Behaviour
 
+- Show an immutable and a mutable type
+- How to iterate through a string?
 - How does concurrency model work?
 - Event loop
 - Can Javascript run on multiple threads? How does it solve concurrency problems?
